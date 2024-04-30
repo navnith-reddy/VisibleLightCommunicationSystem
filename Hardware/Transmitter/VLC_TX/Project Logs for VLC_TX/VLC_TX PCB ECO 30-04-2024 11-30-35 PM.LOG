@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=3V3L Pin=P1-15
+Removed Pin From Net: NetName=3V3R Pin=P2-3
+Change Component Footprint: Designator=P3 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P4 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P5 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P1 Old Footprint=61302411121 New Footprint=61302411121
+Change Component Footprint: Designator=P2 Old Footprint=61302411121 New Footprint=61302411121
+Change Component Footprint: Designator=P6 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=R1 Old Footprint=FP-TNPW0805-e3-MFG New Footprint=FP-TNPW0805-e3-MFG
+Added Pin To Net: NetName=3V3R Pin=P1-15
+Added Pin To Net: NetName=3V3L Pin=P2-3

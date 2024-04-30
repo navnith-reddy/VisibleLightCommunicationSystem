@@ -1,3 +1,3 @@
-Record=TopLevelDocument|FileName=Pico.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Pico.SchDoc|FileName=Teensy.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Pico.SchDoc|FileName=Transconductance.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=VLC_TX.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=VLC_TX.SchDoc|Designator=U_Teensy|SchDesignator=U_Teensy|FileName=Teensy.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Teensy.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=VLC_TX.SchDoc|Designator=U_Transconductance|SchDesignator=U_Transconductance|FileName=Transconductance.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Transconductance.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

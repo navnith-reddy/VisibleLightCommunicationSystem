@@ -19,12 +19,7 @@ const PROGMEM uint16_t bit_zero[8] =
 };
 
 
-// 76.7 kHz
-const PROGMEM uint16_t bit_one[10] =
-{
- 300,  476,  585,  585,  476,  300,  123,   14, 
-  14,  123
-};
+
 /*
 const PROGMEM uint16_t bit_zero[22] =
 {
