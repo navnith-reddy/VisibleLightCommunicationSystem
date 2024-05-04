@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=VLC_RX.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=VLC_RX.SchDoc|Designator=U_Pico|SchDesignator=U_Pico|FileName=Pico.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Pico.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=VLC_RX.SchDoc|Designator=U_Teensy|SchDesignator=U_Teensy|FileName=Teensy.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Teensy.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=VLC_RX.SchDoc|Designator=U_Transimpedance|SchDesignator=U_Transimpedance|FileName=Transimpedance.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Transimpedance.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
