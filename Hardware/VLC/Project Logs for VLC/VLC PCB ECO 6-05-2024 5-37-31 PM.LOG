@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=FILTERED Pin=U2-1
+Removed Pin From Net: NetName=FILTERED Pin=U2-2
+Removed Pin From Net: NetName=NetC8_1 Pin=U2-3
+Removed Pin From Net: NetName=TIA_OUT Pin=U3-1
+Removed Pin From Net: NetName=DIODE+ Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U3-3
+Change Component Footprint: Designator=P5 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P6 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P7 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P8 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P9 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P10 Old Footprint=62000211121 New Footprint=62000211121
+Added Pin To Net: NetName=TIA_OUT Pin=U2-1
+Added Pin To Net: NetName=DIODE+ Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=FILTERED Pin=U3-1
+Added Pin To Net: NetName=FILTERED Pin=U3-2
+Added Pin To Net: NetName=NetC8_1 Pin=U3-3
+Added Room: Name=U_DemodTeensy
+Added Room: Name=U_ModTeensy
+Added Room: Name=U_Pico
+Added Room: Name=U_Transconductance
+Added Room: Name=U_Transimpedance

@@ -1,0 +1,122 @@
+Removed Pin From Net: NetName=BUFFER_OUT Pin=P15-2
+Removed Pin From Net: NetName=TIA_OUT Pin=U2-1
+Removed Pin From Net: NetName=DIODE+ Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=FILTERED Pin=U3-1
+Removed Pin From Net: NetName=FILTERED Pin=U3-2
+Removed Pin From Net: NetName=NetC8_1 Pin=U3-3
+Removed Member From Class: ClassName=U_Transconductance Member=P13
+Removed Member From Class: ClassName=U_Transconductance Member=P14
+Removed Member From Class: ClassName=U_Transconductance Member=P15
+Change Component Footprint: Designator=P13 Old Footprint=61300111121 New Footprint=62000211121
+Change Component Comment : Designator=P13 Old Comment=61300111121 New Comment=62000211121
+Change Component Designator: OldDesignator=P11 NewDesignator=P14
+Change Component Designator: OldDesignator=P12 NewDesignator=P15
+Change Component Designator: OldDesignator=P16 NewDesignator=P19
+Change Component Designator: OldDesignator=P17 NewDesignator=P20
+Change Component Designator: OldDesignator=P18 NewDesignator=P21
+Change Component Designator: OldDesignator=P19 NewDesignator=P22
+Change Component Designator: OldDesignator=P20 NewDesignator=P16
+Change Component Designator: OldDesignator=P21 NewDesignator=P18
+Change Component Designator: OldDesignator=P22 NewDesignator=P23
+Change Component Designator: OldDesignator=P23 NewDesignator=P24
+Change Managed Component Library Link : Designator=P13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2009FDDC-A3A7-4D90-98B6-8853ED899228 New ItemGUID=189B43C2-5092-46BD-A074-87941DEAAC5E Old RevisionGUID=49C27949-01AA-49EE-BD2C-A037600B5AC9 New RevisionGUID=F0E36799-C190-49E3-8C3A-93F9A9E1BFFD
+Change component parameters: Designator = "P13" ("P13"); Footprint = "61300111121"; UniqueID = "\TZMMJVHE" ("\TZMMJVHE")
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "61924778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=P11(62000211121)
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "61924778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=P12(62000211121)
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "61924778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Component: Designator=P17(62000211121)
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.35mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "61924778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "200V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PGND Pin=P11-1
+Added Pin To Net: NetName=GND Pin=P11-2
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=5V Pin=P12-2
+Added Pin To Net: NetName=PGND Pin=P13-1
+Added Pin To Net: NetName=30V Pin=P13-2
+Added Pin To Net: NetName=BUFFER_OUT Pin=P17-1
+Added Pin To Net: NetName=FILTERED Pin=U2-1
+Added Pin To Net: NetName=FILTERED Pin=U2-2
+Added Pin To Net: NetName=NetC8_1 Pin=U2-3
+Added Pin To Net: NetName=TIA_OUT Pin=U3-1
+Added Pin To Net: NetName=DIODE+ Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Change Net Name : Old Net Name=NetP16_1 New Net Name=NetP19_1
+Change Net Name : Old Net Name=NetP17_1 New Net Name=NetP20_1
+Change Net Name : Old Net Name=NetP22_1 New Net Name=NetP23_1
+Added Pin To Net: NetName=NetP17_2 Pin=P17-2
+Added Pin To Net: NetName=NetP17_2 Pin=R12-1
+Added Net: Name=NetP17_2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R12-2
+Added Net: Name=NetQ1_1
+Added Member To Class: ClassName=VLC Member=Component P11 62000211121
+Added Member To Class: ClassName=VLC Member=Component P12 62000211121
+Added Member To Class: ClassName=VLC Member=Component P13 62000211121
+Added Member To Class: ClassName=U_Transconductance Member=Component P24 61300111121
+Added Room: Name=U_DemodTeensy
+Added Room: Name=U_ModTeensy
+Added Room: Name=U_Pico
+Added Room: Name=U_Transconductance
+Added Room: Name=U_Transimpedance

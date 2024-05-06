@@ -1,0 +1,102 @@
+Change Component Footprint: Designator=P5 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P6 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P7 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P8 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P12 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P13 Old Footprint=61300111121 New Footprint=61300111121
+Change Component Footprint: Designator=P14 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P15 Old Footprint=61300311121 New Footprint=61300311121
+Change Component Footprint: Designator=P24 Old Footprint=61302011121 New Footprint=61302011121
+Change Component Footprint: Designator=P25 Old Footprint=61302011121 New Footprint=61302011121
+Change Component Footprint: Designator=P20 Old Footprint=61302411121 New Footprint=61302411121
+Change Component Footprint: Designator=P21 Old Footprint=61302411121 New Footprint=61302411121
+Change Component Footprint: Designator=P22 Old Footprint=61302411121 New Footprint=61302411121
+Change Component Footprint: Designator=P23 Old Footprint=61302411121 New Footprint=61302411121
+Change Component Footprint: Designator=P1 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P2 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P3 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P4 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P9 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P10 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P11 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P16 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P17 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P18 Old Footprint=62000211121 New Footprint=62000211121
+Change Component Footprint: Designator=P19 Old Footprint=62000211121 New Footprint=62000211121
+Added Component: Designator=U7(INF-PG-TO252-5-11_M)
+Add component (AddParameter): Name = "Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/ITS428L2_DS11_20081010.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a30431c69a49d011cdcc9a1fd41df"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE7276-Data+Sheet-+v1_11.pdf?folderId=db3a304412b407950112b408e8c90004&fileId=db3a304412b407950112b436c53f66c8&sId=db3a30433db6f09f013dc0e43c0428c1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diagnostic"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (nom)min - all channels active"; Value = "5.8 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (nom)min - one channel active"; Value = "5.8 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (SC)"; Value = "22 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (SCp)"; Value = "22 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Current (typ)"; Value = "5.8 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage Range (max)"; Value = "41 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage Range (min)"; Value = "4.75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Plastic (Green) Transistor Single Outline Package, 6.5 x 6.12 mm Body, 1.14 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO252-5-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Nov-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ITS428L2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "75 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON (max) @ Tj max"; Value = "120 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON @ 25 degC"; Value = "60 mOhm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "toff (max)"; Value = "200 us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ton (max)"; Value = "200 us"; VariantName = "[No Variations]"
+Added Component: Designator=U8(INF-PG-TO252-5-11_M)
+Add component (AddParameter): Name = "Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.infineon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.infineon.com/dgdl/ITS428L2_DS11_20081010.pdf?folderId=db3a304314dca389011537739e37155f&fileId=db3a30431c69a49d011cdcc9a1fd41df"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.infineon.com/dgdl/TLE7276-Data+Sheet-+v1_11.pdf?folderId=db3a304412b407950112b408e8c90004&fileId=db3a304412b407950112b436c53f66c8&sId=db3a30433db6f09f013dc0e43c0428c1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diagnostic"; Value = "Digital"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Green"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Halogen-free"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (nom)min - all channels active"; Value = "5.8 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (nom)min - one channel active"; Value = "5.8 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (SC)"; Value = "22 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IL (SCp)"; Value = "22 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Current (typ)"; Value = "5.8 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage Range (max)"; Value = "41 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage Range (min)"; Value = "4.75 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "5-Pin Plastic (Green) Transistor Single Outline Package, 6.5 x 6.12 mm Body, 1.14 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PG-TO252-5-11"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Nov-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "ITS428L2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ptot (max)"; Value = "75 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON (max) @ Tj max"; Value = "120 mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RON @ 25 degC"; Value = "60 mOhm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "toff (max)"; Value = "200 us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ton (max)"; Value = "200 us"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=5V Pin=U7-5
+Added Pin To Net: NetName=PGND Pin=U8-1
+Added Pin To Net: NetName=30V Pin=U8-5
+Added Pin To Net: NetName=5V_IN Pin=U7-2
+Added Pin To Net: NetName=5V_IN Pin=U7-3
+Added Net: Name=5V_IN
+Added Pin To Net: NetName=30V_IN Pin=U8-2
+Added Pin To Net: NetName=30V_IN Pin=U8-3
+Added Net: Name=30V_IN
+Added Member To Class: ClassName=VLC Member=Component U7 ITS428L2
+Added Member To Class: ClassName=VLC Member=Component U8 ITS428L2
+Added Room: Name=U_DemodTeensy
+Added Room: Name=U_ModTeensy
+Added Room: Name=U_Pico

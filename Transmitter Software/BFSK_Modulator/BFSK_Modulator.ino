@@ -22,10 +22,9 @@ const PROGMEM uint16_t bit_zero[8] =
 
 
 
-const PROGMEM uint16_t bit_zero[16] =
+const PROGMEM uint16_t bit_zero[8] =
 {
-511,  706,  872,  983, 1022,  983,  872,  706, 
- 511,  315,  149,   38,    0,   38,  149,  315
+260,  443,  520,  443,  260,   76,    0,   76
 };
 
 const PROGMEM uint16_t bit_one[16] = 
@@ -62,11 +61,8 @@ void setup() {
 char data = 0xA3;
 
 void loop() {
-  sendDACValue(1023);
-  delay(100);
-  sendDACValue(0);
-  delay(100);
-  //for (int i = 0; i < 16; i++) {sendDACValue (bit_zero[i]);}
+
+  for (int i = 0; i < 8; i++) {sendDACValue (bit_zero[i]);}
   //for (int i = 0; i < 16; i++) {sendDACValue (bit_one[i]);}
 
   // Modulator
